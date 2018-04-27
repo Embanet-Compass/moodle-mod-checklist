@@ -1,0 +1,9 @@
+
+{
+    "name": "embanet-compass/moodle-mod-checklist",
+    "type": "moodle-mod",
+    "description": "Activity Plugin",
+    "extra": {
+        "installer-name": "checklist",
+        "moodle": { "package_folder_name" : "checklist" }
+    }
